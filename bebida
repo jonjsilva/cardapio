@@ -1,0 +1,121 @@
+[  
+
+
+
+   {  
+
+
+
+      "descricao":"Refrigeraente ou chá gelado copo 500ml.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Free Refill",
+
+
+
+      "preco":"5.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"água de copo 500ml ",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h2.jpg  ",
+
+
+
+      "nome":"Água de copo",
+
+
+
+      "preco":"3.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Suco de laranja natural.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h3.jpg",
+
+
+
+      "nome":"Suco de laranja",
+
+
+
+      "preco":"5.90"
+
+
+
+   },
+
+   
+
+      "descricao":"Coca-Cola 2litros.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h4.jpg",
+
+
+
+      "nome":"Coca-Cola",
+
+
+
+      "preco":"10.90"
+
+     
+
+    },
+
+    
+
+     },
+
+   
+
+      "descricao":"Cerveja original 600ml.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h5.jpg",
+
+
+
+      "nome":"Cerveja Original",
+
+
+
+      "preco":"8.90"
+
+     
+
+    }
+
+
+
+]
