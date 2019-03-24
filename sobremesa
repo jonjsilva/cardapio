@@ -1,0 +1,131 @@
+[  
+
+
+
+   {  
+
+
+
+      "descricao":"Sorvete de creme com cobertura de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnColosso",
+
+
+
+      "preco":"4.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Casquinhas de chocolate com cobertura de creme.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Casquinhas",
+
+
+
+      "preco":"2.00"
+
+
+
+   },
+
+
+
+    {  
+
+
+
+      "descricao":"Sorvete de creme coberto com Ovomaltine e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Ovomaltine",
+
+
+
+      "preco":"4.50"
+
+
+
+   },
+   
+
+      {  
+
+
+
+      "descricao":"Sorvete de creme coberto de Óreo e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Óreo",
+
+
+
+      "preco":"5.00"
+
+
+
+   },
+
+    
+
+     },
+
+   
+ {  
+
+
+
+      "descricao":"Sorvete de creme com pedaços de Bis e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Bis",
+
+
+
+      "preco":"5.50"
+
+
+
+   },
+
+     
+
+    }
+
+
+
+]
